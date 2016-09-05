@@ -1,0 +1,19 @@
+{
+  "name": "@baskoroi/hello-npm",
+  "version": "0.0.0",
+  "description": "Module written from learning how-to-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baskoroi/hello-npm.git"
+  },
+  "author": "Baskoro Indrayana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baskoroi/hello-npm/issues"
+  },
+  "homepage": "https://github.com/baskoroi/hello-npm#readme"
+}
